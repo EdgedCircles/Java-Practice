@@ -6,6 +6,398 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwitchCalc",
+            "request": "launch",
+            "mainClass": "SwitchCalc",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "freq",
+            "request": "launch",
+            "mainClass": "freq",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome2",
+            "request": "launch",
+            "mainClass": "Palindrome2",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Substring2",
+            "request": "launch",
+            "mainClass": "Substring2",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Substring",
+            "request": "launch",
+            "mainClass": "Substring",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Frequency",
+            "request": "launch",
+            "mainClass": "Frequency",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Mergesort",
+            "request": "launch",
+            "mainClass": "Mergesort",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Sort",
+            "request": "launch",
+            "mainClass": "Sort",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargest",
+            "request": "launch",
+            "mainClass": "SecondLargest",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Duplicate",
+            "request": "launch",
+            "mainClass": "Duplicate",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Duplicates",
+            "request": "launch",
+            "mainClass": "Duplicates",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Subsequence",
+            "request": "launch",
+            "mainClass": "Subsequence",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Displayarray",
+            "request": "launch",
+            "mainClass": "Displayarray",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Hanoi",
+            "request": "launch",
+            "mainClass": "Hanoi",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Recursion2",
+            "request": "launch",
+            "mainClass": "Recursion2",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Arraylist2",
+            "request": "launch",
+            "mainClass": "Arraylist2",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Arraylist",
+            "request": "launch",
+            "mainClass": "Arraylist",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Kadane",
+            "request": "launch",
+            "mainClass": "Kadane",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "matrix",
+            "request": "launch",
+            "mainClass": "matrix",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Constructors",
+            "request": "launch",
+            "mainClass": "Constructors",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Grading",
+            "request": "launch",
+            "mainClass": "Grading",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Polyp",
+            "request": "launch",
+            "mainClass": "Polyp",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Classes3",
+            "request": "launch",
+            "mainClass": "Classes3",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Classes2",
+            "request": "launch",
+            "mainClass": "Classes2",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "DataSet",
+            "request": "launch",
+            "mainClass": "DataSet",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeSalary",
+            "request": "launch",
+            "mainClass": "EmployeeSalary",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Abstraction2",
+            "request": "launch",
+            "mainClass": "Abstraction2",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Methodoverride2",
+            "request": "launch",
+            "mainClass": "Methodoverride2",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Abstraction",
+            "request": "launch",
+            "mainClass": "Abstraction",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation",
+            "request": "launch",
+            "mainClass": "Encapsulation",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Hey",
+            "request": "launch",
+            "mainClass": "Hey",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Getset",
+            "request": "launch",
+            "mainClass": "Getset",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "ABCD",
+            "request": "launch",
+            "mainClass": "ABCD",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Hasan",
+            "request": "launch",
+            "mainClass": "Hasan",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "New",
+            "request": "launch",
+            "mainClass": "New",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Methodoverride",
+            "request": "launch",
+            "mainClass": "Methodoverride",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Methodoverload",
+            "request": "launch",
+            "mainClass": "Methodoverload",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Classes",
+            "request": "launch",
+            "mainClass": "Classes",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "Inheritance",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "MinMax",
+            "request": "launch",
+            "mainClass": "MinMax",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Primefactorize",
+            "request": "launch",
+            "mainClass": "Primefactorize",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Primerange",
+            "request": "launch",
+            "mainClass": "Primerange",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Primes",
+            "request": "launch",
+            "mainClass": "Primes",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "MaxMin",
+            "request": "launch",
+            "mainClass": "MaxMin",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Adding",
+            "request": "launch",
+            "mainClass": "Adding",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
+            "name": "Countdown",
+            "request": "launch",
+            "mainClass": "Countdown",
+            "projectName": "Java Workspace_99cdc4cf"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
